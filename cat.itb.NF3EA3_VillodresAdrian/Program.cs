@@ -62,7 +62,7 @@ namespace cat.itb.NF3EA1_VillodresAdrian.cruds
                             break;
                         case "3":
                             Console.WriteLine("");
-
+                            products.SelectByExpesivePrice();
                             Console.WriteLine("");
                             break;
                         case "4":

@@ -101,7 +101,7 @@ namespace UF3_test
 
 
         }
-
+        /*
         private static void GetAllDBs()
         {
 
@@ -675,7 +675,7 @@ namespace UF3_test
             Console.ReadKey();
             Console.Clear();
         }
-
+        */
      
        
         private static void SelectAllProducts2()
@@ -943,7 +943,7 @@ namespace UF3_test
             }
             */
 
-        }
-
     }
+
+}
 }
