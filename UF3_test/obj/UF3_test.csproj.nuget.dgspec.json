@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\UF3_test.csproj": {}
+  },
+  "projects": {
+    "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\UF3_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\UF3_test.csproj",
+        "projectName": "UF3_test",
+        "projectPath": "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\UF3_test.csproj",
+        "packagesPath": "C:\\Users\\33939635F\\.nuget\\packages\\",
+        "outputPath": "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33939635F\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Driver.signed": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

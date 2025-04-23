@@ -1,0 +1,124 @@
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\UF3_test.exe
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\UF3_test.deps.json
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\UF3_test.runtimeconfig.json
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\UF3_test.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\UF3_test.pdb
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfoInputs.cache
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfo.cs
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.csproj.CoreCompileInputs.cache
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.dll
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\refint\UF3_test.dll
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.pdb
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.genruntimeconfig.cache
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\ref\UF3_test.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\DnsClient.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\Snappier.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\33939635F\source\repos\UF3_test\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.csproj.AssemblyReference.cache
+C:\Users\33939635F\source\repos\UF3_test\obj\Debug\net7.0\UF3_test.csproj.Up2Date
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.csproj.AssemblyReference.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfoInputs.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfo.cs
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.csproj.CoreCompileInputs.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\refint\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\UF3_test.exe
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\UF3_test.deps.json
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\UF3_test.runtimeconfig.json
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\UF3_test.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\DnsClient.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\SharpCompress.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\Snappier.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\ZstdSharp.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.csproj.Up2Date
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\UF3_test.genruntimeconfig.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\obj\Debug\net7.0\ref\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.csproj.AssemblyReference.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfoInputs.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfo.cs
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.csproj.CoreCompileInputs.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\refint\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.exe
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.deps.json
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.runtimeconfig.json
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\DnsClient.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\SharpCompress.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\Snappier.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\ZstdSharp.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.csproj.Up2Date
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.genruntimeconfig.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA2. CRUD a MongoDB\UF3_test\UF3_test\obj\Debug\net7.0\ref\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.exe
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.deps.json
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.runtimeconfig.json
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\UF3_test.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\DnsClient.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\SharpCompress.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\Snappier.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\ZstdSharp.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.csproj.AssemblyReference.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfoInputs.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.AssemblyInfo.cs
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.csproj.CoreCompileInputs.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.csproj.Up2Date
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\refint\UF3_test.dll
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.pdb
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\UF3_test.genruntimeconfig.cache
+C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\obj\Debug\net7.0\ref\UF3_test.dll
