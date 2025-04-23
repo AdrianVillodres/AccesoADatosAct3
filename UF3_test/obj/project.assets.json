@@ -793,19 +793,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\33939635F\\.nuget\\packages\\": {}
+    "C:\\Users\\argo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\UF3_test.csproj",
+      "projectUniqueName": "C:\\Users\\argo\\Desktop\\Adrian\\Activitat3\\UF3_test\\UF3_test.csproj",
       "projectName": "UF3_test",
-      "projectPath": "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\UF3_test.csproj",
-      "packagesPath": "C:\\Users\\33939635F\\.nuget\\packages\\",
-      "outputPath": "C:\\Joan\\01.ITB\\01. Curs 24-25\\01. BBDD\\DAMv_M2_M6\\M6\\NF3. Persistència en BBDD NoSQL\\EA3. Queries amb LINQ\\UF3_test\\UF3_test\\obj\\",
+      "projectPath": "C:\\Users\\argo\\Desktop\\Adrian\\Activitat3\\UF3_test\\UF3_test.csproj",
+      "packagesPath": "C:\\Users\\argo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\argo\\Desktop\\Adrian\\Activitat3\\UF3_test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\33939635F\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\argo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -825,11 +825,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -861,7 +856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

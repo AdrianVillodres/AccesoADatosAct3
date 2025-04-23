@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UF3_test
-build_property.ProjectDir = C:\Joan\01.ITB\01. Curs 24-25\01. BBDD\DAMv_M2_M6\M6\NF3. Persistència en BBDD NoSQL\EA3. Queries amb LINQ\UF3_test\UF3_test\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\argo\Desktop\Adrian\Activitat3\UF3_test\
