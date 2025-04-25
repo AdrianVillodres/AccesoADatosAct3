@@ -4,12 +4,16 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using MongoDB.Bson.Serialization.Attributes;
+using MongoDB.Bson;
 
 namespace UF3_test.model
 {
     [Serializable]
     public class Product
     {
+        [BsonId]
+        public ObjectId Id { get; set; }
         public string name { get; set; }
         public int price { get; set; }
         public int stock { get; set; }

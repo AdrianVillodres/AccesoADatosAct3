@@ -51,9 +51,16 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
             var product =
                 query
                 .Where(p => p.price == expensiveproduct)
-                .Single(); 
-            
-                Console.WriteLine(product.name, product.price);
+                .Single();
+
+            Console.WriteLine($"{product.name}, {product.price}");
         }
+    }
+
+    public void CountSumProducts()
+    {
+        var database = MongoLocalConnection.GetDatabase("itb");
+        var productsC = database.GetCollection<Product>("products");
+        var query = productsC.AsQueryable<Product>();
     }
 }
