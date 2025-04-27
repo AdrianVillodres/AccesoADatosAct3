@@ -57,7 +57,7 @@ namespace cat.itb.NF3EA1_VillodresAdrian.cruds
                             break;
                         case "2":
                             Console.WriteLine("");
-                            DropCollection("itb", "products");
+                            DropCollection("itb", "books");
                             Console.WriteLine("");
                             break;
                         case "3":
@@ -67,44 +67,46 @@ namespace cat.itb.NF3EA1_VillodresAdrian.cruds
                             break;
                         case "4":
                             Console.WriteLine("");
-
+                            products.CountSumProducts();
                             Console.WriteLine("");
                             break;
                         case "5":
                             Console.WriteLine("");
-
+                            books.ShowBooksByPagesAndCategory(300, 350, "Java");
                             Console.WriteLine("");
                             break;
                         case "6":
                             Console.WriteLine("");
-
+                            books.SelectByAuthors(new string[] { "Charlie Collins", "Robi Sen" });
                             Console.WriteLine("");
                             break;
                         case "7":
                             Console.WriteLine("");
-
+                            books.SelectBooksTitleAndStatus();
                             Console.WriteLine("");
                             break;
                         case "8":
                             Console.WriteLine("");
-
+                            books.SelectBooksOrderByPages();
                             Console.WriteLine("");
                             break;
                         case "9":
                             Console.WriteLine("");
-
+                            books.SelectBooksByAuthor("Danno Ferrin");
                             Console.WriteLine("");
                             break;
                         case "10":
                             Console.WriteLine("");
-
+                            books.SelectBooksByCategoryExcludingAuthor("Java" , "Vikram Goyal");
                             Console.WriteLine("");
                             break;
                         case "0":
                             exit = true;
                             break;
                         default:
+                            Console.WriteLine("");
                             Console.WriteLine("Opció no válida, intenta de nou.");
+                            Console.WriteLine("");
                             break;
                     }
                 }

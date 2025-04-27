@@ -13,11 +13,13 @@ namespace UF3_test.model
     public class Product
     {
         [BsonId]
-        public ObjectId Id { get; set; }
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string Id { get; set; }
         public string name { get; set; }
         public int price { get; set; }
         public int stock { get; set; }
         public string picture { get; set; }
         public List<string> categories { get; set; }
     }
+
 }

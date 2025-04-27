@@ -17,10 +17,10 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
     {
         public void LoadProductsCollection()
         {
-
             var database = MongoLocalConnection.GetDatabase("itb");
             database.DropCollection("products");
-            var collection = database.GetCollection<BsonDocument>("products");
+
+            var collection = database.GetCollection<Product>("products");
 
             FileInfo file = new FileInfo("../../../files/products.json");
 
@@ -30,19 +30,27 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
                 while ((line = sr.ReadLine()) != null)
                 {
                     Product product = JsonConvert.DeserializeObject<Product>(line);
-                    Console.WriteLine(product.name);
-                    string json = JsonConvert.SerializeObject(product);
-                    var document = new BsonDocument();
-                    document.Add(BsonDocument.Parse(json));
-                    collection.InsertOne(document);
+
+                    if (ObjectId.TryParse(product.Id, out var objectId))
+                    {
+                        product.Id = objectId.ToString();
+                    }
+                    else
+                    {
+                        product.Id = ObjectId.GenerateNewId().ToString();
+                    }
+
+                    collection.InsertOne(product);
                 }
             }
         }
+
 
         public void SelectByExpesivePrice()
         {
             var database = MongoLocalConnection.GetDatabase("itb");
             var productsC = database.GetCollection<Product>("products");
+
             var query = productsC.AsQueryable<Product>();
             var expensiveproduct =
                 query
@@ -55,12 +63,18 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
 
             Console.WriteLine($"{product.name}, {product.price}");
         }
+
+        public void CountSumProducts()
+        {
+            var database = MongoLocalConnection.GetDatabase("itb");
+            var productsC = database.GetCollection<Product>("products");
+
+            var totalStock = productsC.AsQueryable<Product>()
+                                      .Sum(p => p.stock);
+
+            Console.WriteLine($"La suma total de los stocks es: {totalStock}");
+        }
+
     }
 
-    public void CountSumProducts()
-    {
-        var database = MongoLocalConnection.GetDatabase("itb");
-        var productsC = database.GetCollection<Product>("products");
-        var query = productsC.AsQueryable<Product>();
-    }
 }

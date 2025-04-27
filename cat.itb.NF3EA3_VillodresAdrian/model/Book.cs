@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +10,7 @@ namespace UF3_test.model
     [Serializable]
     public class Book
     {
+        [JsonProperty("_id")]
         public int _id { get; set; }
         public String title { get; set; }
         public String isbn { get; set; }
