@@ -113,6 +113,7 @@ namespace cat.itb.NF3EA1_VillodresAdrian.cruds
 
             }
         }
+        //metode per borrar una colecció
         public static void DropCollection(string databaseName, string collectionName)
         {
             var db = MongoLocalConnection.GetDatabase(databaseName);

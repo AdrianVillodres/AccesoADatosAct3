@@ -15,6 +15,7 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
 {
     public class ProductsCRUD
     {
+        //metode per carregar la colecció
         public void LoadProductsCollection()
         {
             var database = MongoLocalConnection.GetDatabase("itb");
@@ -45,7 +46,7 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
             }
         }
 
-
+        //metode per seleccionar el producte més car
         public void SelectByExpesivePrice()
         {
             var database = MongoLocalConnection.GetDatabase("itb");
@@ -64,6 +65,7 @@ namespace cat.itb.NF3EA3_VillodresAdrian.cruds
             Console.WriteLine($"{product.name}, {product.price}");
         }
 
+        //metode mer comptar la suma de tots els stocks
         public void CountSumProducts()
         {
             var database = MongoLocalConnection.GetDatabase("itb");
